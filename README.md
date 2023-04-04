@@ -75,7 +75,7 @@ bash
 `python IP_Extractor.py` 
 
 You will be prompted to enter an IP address, after which the tool will extract various information related to the IP address including IP version, IP class, reverse DNS, open ports, network ID, subnet mask, host address, network class, possible subnet count, ASN, ISP, country, and geolocation information.
-[IP Extractor Example ](Example:%20https://prnt.sc/PH1DgiSlJvMv)
+
 
 ## Supported Operating Systems
 
