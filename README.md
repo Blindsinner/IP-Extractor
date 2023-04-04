@@ -1,3 +1,4 @@
+
 # IP Extractor
 
 IP Extractor is a Python tool that provides detailed information about an IP address. It displays information like IP version, IP class, hostname, open ports, ASN, ISP, country, geographical coordinates, city, state, and postal code.
@@ -73,7 +74,8 @@ bash
 
 `python IP_Extractor.py` 
 
-Then, enter the IP address when prompted.
+You will be prompted to enter an IP address, after which the tool will extract various information related to the IP address including IP version, IP class, reverse DNS, open ports, network ID, subnet mask, host address, network class, possible subnet count, ASN, ISP, country, and geolocation information.
+[IP Extractor Example ](Example:%20https://prnt.sc/PH1DgiSlJvMv)
 
 ## Supported Operating Systems
 
