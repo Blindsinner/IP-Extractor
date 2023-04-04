@@ -15,7 +15,7 @@ To clone the repository using git, run the following command:
 
 bash
 
-`git clone https://github.com/yourusername/IP-Extractor.git` 
+`git clone https://github.com/Blindsinner/IP-Extractor.git` 
 
 Alternatively, you can download the repository as a ZIP file and extract it to your desired location.
 
