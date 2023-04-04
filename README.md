@@ -1,7 +1,4 @@
 # IP Extractor
- IP Extractor is a Python tool that provides detailed information about an IP address
-
-# IP Extractor
 
 IP Extractor is a Python tool that provides detailed information about an IP address. It displays information like IP version, IP class, hostname, open ports, ASN, ISP, country, geographical coordinates, city, state, and postal code.
 
